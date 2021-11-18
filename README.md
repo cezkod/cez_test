@@ -1,2 +1,3 @@
 # cez_test
-repo
+repo description
+Hello testing odin
